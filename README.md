@@ -4,11 +4,11 @@
 - [Week Summaries](comp1238.md)
 
 ## Schedule
- - Monday
+- Monday
   - 12PM: [COMP1162 - Math](https://learn.georgebrown.ca/d2l/home/398732)
   - 4PM: [COMP1238 - Comp Logic](https://learn.georgebrown.ca/d2l/home/412494)
   - 6PM: [COMP1234 - Web dev](https://learn.georgebrown.ca/d2l/home/416188)
- - Tuesday
+- Tuesday
   - 10AM: [COMP1162 - Math](https://learn.georgebrown.ca/d2l/home/398732)
   - 4PM: [COMP1238 - Data Mgmnt](https://learn.georgebrown.ca/d2l/home/412494)
   - 6PM: [COMP 1151 - IT Essen](https://learn.georgebrown.ca/d2l/home/408352)
